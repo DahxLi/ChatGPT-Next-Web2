@@ -158,7 +158,8 @@ export function SideBar(props: { className?: string }) {
           Chatgpt 4.0
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Digtial Pluse 开发 GPT-4.0 聊天机器人 Aura airtech 测试版本最新
+          Digtial Pulse 开发 GPT-4.0 聊天机器人 Aura airtech 测试版本最新
+          Demo演示版 到期日 - VIP内部测试客户 
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
